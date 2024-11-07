@@ -49,4 +49,4 @@ Moe counter badge with multiple themes! / 多种风格可选的萌萌计数器. 
 ```
 <a href="https://www.revolvermaps.com/livestats/541z3vvaapw/"><img src="//rf.revolvermaps.com/h/m/a/0/ff0000/128/0/541z3vvaapw.png" width="256" height="128" alt="Map" style="border:0;"></a>
 ```
-<a href="https://www.revolvermaps.com/livestats/541z3vvaapw/"><img src="//rf.revolvermaps.com/h/m/a/0/ff0000/128/0/541z3vvaapw.png" width="256" height="128" alt="Map" style="border:0;"></a>
+![](/rf.revolvermaps.com/h/m/a/0/ff0000/128/0/541z3vvaapw.png)
