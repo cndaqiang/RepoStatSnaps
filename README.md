@@ -45,8 +45,9 @@ Moe counter badge with multiple themes! / 多种风格可选的萌萌计数器. 
 ![:name](https://count.getloli.com/@RepoStatSnaps?name=wzry.doc&theme=green&padding=6&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
 
 
-### revolvermaps
+### visitor map
+See [https://www.revolvermaps.com](https://www.revolvermaps.com/?target=gallery)
 ```
-<a href="https://www.revolvermaps.com/livestats/541z3vvaapw/"><img src="//rf.revolvermaps.com/h/m/a/0/ff0000/128/0/541z3vvaapw.png" width="256" height="128" alt="Map" style="border:0;"></a>
+![](https://rf.revolvermaps.com/h/m/a/0/ff0000/128/0/541z3vvaapw.png)
 ```
-![](/rf.revolvermaps.com/h/m/a/0/ff0000/128/0/541z3vvaapw.png)
+![](https://rf.revolvermaps.com/h/m/a/0/ff0000/128/0/541z3vvaapw.png)
