@@ -36,3 +36,11 @@ Generate customizable badges at [Shields.io](https://img.shields.io).
 
 ![GitHub forks](https://img.shields.io/github/forks/cndaqiang/RepoStatSnaps?color=60c5ba&style=for-the-badge)
 ![GitHub stars](https://img.shields.io/github/stars/cndaqiang/RepoStatSnaps?color=ffd700&style=for-the-badge)
+
+### Moe-Counter
+Moe counter badge with multiple themes! / 多种风格可选的萌萌计数器. See[Moe-Counter](https://github.com/journey-ad/Moe-Counter)
+```
+![:name](https://count.getloli.com/@RepoStatSnaps?theme=green&padding=6&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
+```
+![:name](https://count.getloli.com/@RepoStatSnaps?name=wzry.doc&theme=green&padding=6&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
+
