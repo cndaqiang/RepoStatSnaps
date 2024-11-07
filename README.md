@@ -1,21 +1,38 @@
 # RepoStatSnaps
 
-A curated collection of dynamic, API-powered images that display various GitHub repository stats and analytics.
+**A curated collection of dynamic, API-powered images that display various GitHub repository stats and analytics.**
 
 ## Purpose
 
 This repository gathers interesting API-generated images that provide insights into GitHub repositories, such as contributions, activity trends, and more.
 
-## Examples
+## Demo
 
-### **Repobeats Analytics**
-goto [repobeats.axiom.co](repobeats.axiom.co) and config
+### Repobeats Analytics
+Generate a repository analytics image on [Repobeats](https://repobeats.axiom.co) and configure it for your repo.
 
-![Alt](https://repobeats.axiom.co/api/embed/1d15ad6561a8059b38579d1cd07237571c884913.svg "Repobeats analytics image")
+![Repobeats analytics image](https://repobeats.axiom.co/api/embed/1d15ad6561a8059b38579d1cd07237571c884913.svg "Repobeats analytics image")
 
-### start history
-```
+---
+
+### Star History Chart
+Track repository star history over time. More at: [Star History](https://api.star-history.com)
+
+```markdown
 [![Star History Chart](https://api.star-history.com/svg?repos=cndaqiang/RepoStatSnaps&type=Date)](https://star-history.com/#cndaqiang/RepoStatSnaps&Date)
 ```
 
 [![Star History Chart](https://api.star-history.com/svg?repos=cndaqiang/RepoStatSnaps&type=Date)](https://star-history.com/#cndaqiang/RepoStatSnaps&Date)
+
+---
+
+### Badges
+Generate customizable badges at [Shields.io](https://img.shields.io).
+
+```markdown
+![GitHub forks](https://img.shields.io/github/forks/cndaqiang/RepoStatSnaps?color=60c5ba&style=for-the-badge)
+![GitHub stars](https://img.shields.io/github/stars/cndaqiang/RepoStatSnaps?color=ffd700&style=for-the-badge)
+```
+
+![GitHub forks](https://img.shields.io/github/forks/cndaqiang/RepoStatSnaps?color=60c5ba&style=for-the-badge)
+![GitHub stars](https://img.shields.io/github/stars/cndaqiang/RepoStatSnaps?color=ffd700&style=for-the-badge)
