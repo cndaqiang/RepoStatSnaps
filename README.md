@@ -48,6 +48,12 @@ Moe counter badge with multiple themes! / 多种风格可选的萌萌计数器. 
 ### visitor map
 See [https://www.revolvermaps.com](https://www.revolvermaps.com/?target=gallery)
 
+```
+![](https://rf.revolvermaps.com/h/m/a/0/ff0000/128/0/541z3vvaapw.png)
+```
+![](https://rf.revolvermaps.com/h/m/a/0/ff0000/128/0/541z3vvaapw.png)
+
+
 ### My skills
 See [https://skillicons.dev](https://skillicons.dev)
 ```
@@ -61,7 +67,4 @@ See [https://skillicons.dev](https://skillicons.dev)
 ## Contributing
 
 Add your own dynamic images by opening a pull request!
-```
-![](https://rf.revolvermaps.com/h/m/a/0/ff0000/128/0/541z3vvaapw.png)
-```
-![](https://rf.revolvermaps.com/h/m/a/0/ff0000/128/0/541z3vvaapw.png)
+
